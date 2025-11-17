@@ -1,0 +1,35 @@
+# Core Data Science Libraries
+pandas
+numpy
+scikit-learn
+
+# Machine Learning Models
+xgboost
+lightgbm
+
+# API Framework
+fastapi
+uvicorn
+pydantic
+python-multipart
+
+# Web Interface
+streamlit
+plotly
+
+# System Monitoring
+psutil
+
+# Chat Application
+requests
+
+# Utilities
+joblib
+python-dotenv
+
+# Visualization
+matplotlib
+seaborn
+
+# Testing
+pytest
