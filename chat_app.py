@@ -17,8 +17,8 @@ st.set_page_config(
 )
 
 # OpenRouter API Configuration
-OPENROUTER_API_KEY = "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"
-OPENROUTER_API_URL = "https://openrouter.ai/api/v1/chat/completions"
+OPENROUTER_API_KEY = "API_KEY"
+OPENROUTER_API_URL = "API_KEY_URL"
 MODEL = "openai/gpt-oss-20b:free"
 
 # Custom CSS for chat interface
