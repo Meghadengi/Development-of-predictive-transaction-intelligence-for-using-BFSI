@@ -1,4 +1,4 @@
-# 🛡️ Predictive Transaction Intelligence for BFSI
+# 🛡️ Predictive Transaction Intelligence using for BFSI
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.100+-green.svg)](https://fastapi.tiangolo.com/)
